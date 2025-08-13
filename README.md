@@ -4,7 +4,7 @@ NAME:SHIVAM KUMAR
 INTERN ID:CT04DZ1040
 DODMAIN:FRONT END DEVELOPMENT
 DURATION:4 WEEKS
-MENTOR: NEELA SSANTOSH 
+MENTOR: NEELA SANTOSH 
 
 DESCRIPTION:
 This project performs sentiment analysis on customer reviews using **TF-IDF vectorization** and **Logistic Regression**.
